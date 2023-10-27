@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        cat
+//  action 1:    the cat runs
+cat.run();
+//  action 2:    the cat meows
+cat.meow();
+//  action 3:    the cat eats
+cat.eat();
+//  2)            
+//  Noun:        vinylRecord
+//  action 1:    the vinylRecord plays music
+vinylRecord.playsMusic();
+//  action 2:    the vinylRecord skips
+vinylRecord.skip();
+//  action 3:    the vinylRecord turns
+vinylRecord.turn();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        weightLifter
+//  action 1:    the weightLifter lifts weights
+weightLifter.liftsweight();
+//  action 2:    the weightLifter sweats
+weightLifter.sweat();
+//  action 3:    the weightLifter does pushups
+weightLifter.doespushup();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        chef    
+//  action 1:    the chef cooks
+chef.cook();
+//  action 2:    the chef cuts onions
+chef.cutOnion();
+//  action 3:    the chef writes recipes 
+chef.writeRecipe();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        leg
+//  action 1:    the leg kicks
+leg.kick();
+//  action 2:    the leg stretches 
+leg.stretch();
+//  action 3:    the leg twists
+leg.twist();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        musician
+//  action 1:    the musician performs
+musician.perform();
+//  action 2:    the musician composes
+musician.compose();
+//  action 3:    the musician practices
+musician.practice();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        plant
+//  action 1:    the plant grows
+plant.grow();
+//  action 2:    the plant dies
+plant.die();
+//  action 3:    the plant gives fruit
+plant.giveFruit();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        athlete  
+//  action 1:    the athlete competes
+athlete.compete();
+//  action 2:    the athlete wins
+athlete.win();
+//  action 3:    the athlete trains
+athlete.train();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        audience
+//  action 1:    the audience cheers
+audience.cheer();
+//  action 2:    the audience boos
+audience.boo();
+//  action 3:    the audience listens
+audience.listen();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        the boss
+//  action 1:    the boss hires
+boss.hire();
+//  action 2:    the boss fires
+boss.fire();
+//  action 3:    the boss inspires
+boss.inspire();
 
 
 #endif

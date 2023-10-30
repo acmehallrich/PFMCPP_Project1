@@ -124,13 +124,13 @@ audience.boo();
 //  action 3:    the audience listens
 audience.listen();
 //  10)
-//  Noun:        the boss
-//  action 1:    the boss hires
-boss.hire();
-//  action 2:    the boss fires
-boss.fire();
-//  action 3:    the boss inspires
-boss.inspire();
+//  Noun:        the airline pilot
+//  action 1:    the airline pilot flies the plane
+airlinePilot.flyThePlane();
+//  action 2:    the airline pilot lands the plane
+airlinePilot.landThePlane();
+//  action 3:    the airline pilot talks to passengers
+airlinePilot.talkToPassengers();
 
 
 #endif
